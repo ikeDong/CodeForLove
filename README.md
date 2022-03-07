@@ -1,6 +1,6 @@
 # CodeForLove
 
-**谨以此献给我的挚爱 鹿❤**
+**谨以此献给我的挚爱**
 
 展示示例：[冬与鹿](https://forever.ikedong.cn)
 
