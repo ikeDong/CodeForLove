@@ -55,7 +55,7 @@
     }), 2 * commentTime);
   };
 
-  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n  <div id=\"title\" text=\"冬与鹿\" >冬与鹿</div>\n  <span id=\"time\" class=\"time\" ><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 30px;bottom: 10px;'>\n    <a id='skipAnimation'><i class=\"fa fa-rocket\"></i> 跳过动画</a>\n    <a style='color: #fff' href='https://ikedong.cn'><i class=\"fa fa-repeat\" aria-hidden=\"true\"></i> 重新播放</a>\n    <a style='color: #fff' target=\"_blank\" href='https://blog.ikedong.cn/'><i class=\"fa fa-heart\"></i> '冬与鹿'的博客</a>\n  </div>");
+  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n  <div id=\"title\" text=\"冬与鹿\" >冬与鹿</div>\n  <span id=\"time\" class=\"time\" ><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 30px;bottom: 10px;'>\n    <a id='skipAnimation'><i class=\"fa fa-rocket\"></i> 跳过动画</a>\n    <a style='color: #fff' href='https://ikedong.cn'><i class=\"fa fa-repeat\" aria-hidden=\"true\"></i> 重新播放</a>\n    <a style='color: #fff' target=\"_blank\" href='https://blog.ikedong.cn/'><i class=\"fa fa-heart\"></i> '冬与鹿'的博客</a>\n    <a style='color: #fff' target=\"_blank\" href='https://github.com/ikeDong/CodeForLove/'><i class=\"fa fa-github\"></i> Github</a>\n  </div>");
 
   commentTime = 60;
 
